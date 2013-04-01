@@ -1,5 +1,5 @@
-This file has been automatically generated on Mon Jan 28 20:43:21 MSK 2013 with the following command:
-build-mingw64-toolchain.sh 
+This file has been automatically generated on Mon Apr  1 22:51:18 MSK 2013 with the following command:
+build-mingw64-toolchain.sh --target-arch=x86_64
 
 The MD5 hashes for the original sources packages are:
 041487d25e9c230b0c42b106361055fe  http://ftp.gnu.org/gnu/gmp/gmp-5.0.5.tar.bz2
